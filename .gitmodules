@@ -1,9 +1,9 @@
 [submodule "runtime"]
 	path = runtime
-	url = https://github.com/Genesis-Quant/runtime.git
+	url = https://gitee.com/genesis-quant/arena-runtime.git
 [submodule "backend"]
 	path = backend
-	url = https://github.com/Genesis-Quant/backend.git
+	url = https://gitee.com/genesis-quant/arena-backend.git
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/Genesis-Quant/frontend.git
+	url = https://gitee.com/genesis-quant/arena-frontend.git
